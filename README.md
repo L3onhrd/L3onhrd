@@ -3,7 +3,7 @@
 - 📚 Programming language : Python, HTML & CSS, Javascript, SQL
 - 🌱 I’m currently learning artificial intelligence through various sources I found online
 - 💞️ I’m looking to collaborate on open source projects that are related with my interests 
-- 📫 How to reach me : https://www.linkedin.com/in/leonhardsatriasuharjo/
+- 📫 How to reach me : www.linkedin.com/in/leonhard-satria-suharjo/
 
 <!---
 L3onhrd/L3onhrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
